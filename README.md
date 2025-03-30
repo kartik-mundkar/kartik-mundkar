@@ -30,7 +30,7 @@ FSRCNN Super-Resolution 📸 – Implemented a CNN to enhance image quality.
 
 📫 Connect with Me:
 
-GitHub: [github.com/kartik-mundkar](https://github.com/kartik-mundkar)
+GitHub: [kartik-mundkar](https://github.com/kartik-mundkar)
 
 LinkedIn: [kartik-mundkar](https://www.linkedin.com/in/kartik-mundkar-1b1a62289/)
 
